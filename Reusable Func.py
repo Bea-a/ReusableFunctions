@@ -17,7 +17,7 @@ boxString('Hello')
 #the middle part where the word is will print - then the word and again + '-'
 #Makes sense now!
 
-# okay i want to make my own function
+# Another example 
 
 def cashmoney(word):
     n = len(word)
